@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BA87CB-2723-4394-8019-A4E6204D91EC}|NikolaevaLib\\NikolaevaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevalib\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BA87CB-2723-4394-8019-A4E6204D91EC}|NikolaevaLib\\NikolaevaLib.csproj|solutionrelative:nikolaevalib\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|solutionrelative:nikolaevawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2CAEAC-F0C0-4C0B-82DA-2C8F56926116}|NikolaevaTests\\NikolaevaTests.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevatests\\nikolaevatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2CAEAC-F0C0-4C0B-82DA-2C8F56926116}|NikolaevaTests\\NikolaevaTests.csproj|solutionrelative:nikolaevatests\\nikolaevatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevawpf\\salewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|solutionrelative:nikolaevawpf\\salewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevawpf\\partnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|solutionrelative:nikolaevawpf\\partnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevawpf\\partnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D09ABEE2-1618-46DE-B2F6-3FB4E64152A9}|NikolaevaWpf\\NikolaevaWpf.csproj|solutionrelative:nikolaevawpf\\partnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BA87CB-2723-4394-8019-A4E6204D91EC}|NikolaevaLib\\NikolaevaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\gith\\project\\nikolaevalib\\nikolaevalib\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BA87CB-2723-4394-8019-A4E6204D91EC}|NikolaevaLib\\NikolaevaLib.csproj|solutionrelative:nikolaevalib\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaLib\\Partner.cs",
+              "RelativeDocumentMoniker": "NikolaevaLib\\Partner.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaLib\\Partner.cs",
+              "RelativeToolTip": "NikolaevaLib\\Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:22:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartnerWindow.xaml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\PartnerWindow.xaml",
+              "RelativeDocumentMoniker": "NikolaevaWpf\\PartnerWindow.xaml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\PartnerWindow.xaml",
+              "RelativeToolTip": "NikolaevaWpf\\PartnerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T15:46:04.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\PartnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NikolaevaWpf\\PartnerWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\PartnerWindow.xaml.cs",
+              "RelativeToolTip": "NikolaevaWpf\\PartnerWindow.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:40:10.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NikolaevaWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NikolaevaWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwHEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:38:19.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\SaleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NikolaevaWpf\\SaleWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaWpf\\SaleWindow.xaml.cs",
+              "RelativeToolTip": "NikolaevaWpf\\SaleWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowHYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:32:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaLib\\Service.cs",
+              "RelativeDocumentMoniker": "NikolaevaLib\\Service.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaLib\\Service.cs",
+              "RelativeToolTip": "NikolaevaLib\\Service.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:32:11.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NikolaevaTests.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaTests\\NikolaevaTests.cs",
+              "RelativeDocumentMoniker": "NikolaevaTests\\NikolaevaTests.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430\\Gith\\Project\\NikolaevaLib\\NikolaevaTests\\NikolaevaTests.cs",
+              "RelativeToolTip": "NikolaevaTests\\NikolaevaTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:26:47.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

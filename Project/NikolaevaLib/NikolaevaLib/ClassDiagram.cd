@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NikolaevaLib.ApplicationContext">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQAQAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAg=</HashCode>
+      <FileName>ApplicationContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NikolaevaLib.Discount">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NikolaevaLib.Partner">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAJAAACAAAAAAAAAAAAQAAAAAAAEAAwABIAAAAAA=</HashCode>
+      <FileName>Partner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NikolaevaLib.PartnerView">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAAAAAAAAAAAAQAAAAAAAEAAwAAIAAAAAA=</HashCode>
+      <FileName>PartnerView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NikolaevaLib.Sale">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAgAAIAAg=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NikolaevaLib.Service">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wEAAAABAAAAAAAAAAAAIAKAAAAGBAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="NikolaevaWpf.SaleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NikolaevaWpf"
+        mc:Ignorable="d"
+        Title="Добавить/Редактировать реализацию" Height="300" Width="400" ResizeMode="CanMinimize" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Наименование продукта" Margin="0,0,0,5"/>
+            <TextBox x:Name="ProductNameTextBox" Margin="0,0,0,10" />
+
+            <TextBlock Text="Дата продажи" Margin="0,0,0,5"/>
+            <DatePicker x:Name="SaleDatePicker" Margin="0,0,0,10" />
+
+            <TextBlock Text="Количество" Margin="0,0,0,5"/>
+            <TextBox x:Name="QuantityTextBox" Margin="0,0,0,10" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="Сохранить" Click="SaveButton_Click" />
+                <Button Content="Отменить" Click="CancelButton_Click" Margin="10,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
